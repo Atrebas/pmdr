@@ -1,0 +1,14 @@
+Package: pmdr
+Type: Package
+Title: Parallel Manhattan distance computation with R, C, and OpenMP
+Version: 0.0.01
+Date: 2021-03-07
+Author: Atrebas
+Maintainer: Atrebas <atrebas@pm.me>
+Description: This is a toy package written for an experimental purpose.
+        It is not meant to be used for serious work.
+License: GPL (>= 2)
+Encoding: UTF-8
+NeedsCompilation: yes
+ByteCompile: yes
+RoxygenNote: 7.1.1
